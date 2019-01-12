@@ -1,0 +1,6 @@
+framework module CJZToolKits {
+  umbrella header "CJZToolKits.h"
+
+  export *
+  module * { export * }
+}
