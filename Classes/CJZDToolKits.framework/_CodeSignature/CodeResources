@@ -4,21 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CJZToolKits.h</key>
+		<key>Headers/CJZDToolKits.h</key>
 		<data>
-		xrpS8V6QPHad3PiUv+eawtLsJZ0=
+		e7SiywBRylZmD+lplzpopUmP6fg=
 		</data>
-		<key>Headers/SVProgressHUDExtManage.h</key>
+		<key>Headers/CJZDToolKitsManage.h</key>
 		<data>
-		06ud72fUoRdlP9bkUk94Xs/6C9w=
+		Tnl33D7/ROLnkpmM1Mtej/Wxdww=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yzMkqWmj0wlGD826IPx2Wk4K5nc=
+		KFVWEjM59C9HsZS4SYelrl2AJqk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		M1Gi+3gOS+ix+K9h1VHs5dpQV9s=
+		D3dbjBTShOg/pbyTdLHtUR4N39s=
 		</data>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
 		<data>
@@ -59,37 +59,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CJZToolKits.h</key>
+		<key>Headers/CJZDToolKits.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xrpS8V6QPHad3PiUv+eawtLsJZ0=
+			e7SiywBRylZmD+lplzpopUmP6fg=
 			</data>
 			<key>hash2</key>
 			<data>
-			r7m3QTOICvOte72P4nnF4RZiZtMI5p8QBUuF8doDgCc=
+			8AVC05k3GjhYr0KPR7VZ2iy/UWeC0kh3Ih1uEFUBD+E=
 			</data>
 		</dict>
-		<key>Headers/SVProgressHUDExtManage.h</key>
+		<key>Headers/CJZDToolKitsManage.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			06ud72fUoRdlP9bkUk94Xs/6C9w=
+			Tnl33D7/ROLnkpmM1Mtej/Wxdww=
 			</data>
 			<key>hash2</key>
 			<data>
-			IflHI4bijbvHx6J4Nik2IC63SQULmFsBs0/xpdrwXA8=
+			yFQ/aQakl78Z+4c8rdlXGplhnvXW66vmjPPSLcucrkI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M1Gi+3gOS+ix+K9h1VHs5dpQV9s=
+			D3dbjBTShOg/pbyTdLHtUR4N39s=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihPyyfElhsuUQQbmtcBVFcnxUZEcJsiu+MNnx6OOFvQ=
+			OxXTcohidkyMJweewASAdq4Qmc/eTa7+fOvsxmIQGeo=
 			</data>
 		</dict>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
